@@ -26,7 +26,7 @@
 ![Screenshot 2024-08-03 190801](https://github.com/user-attachments/assets/d369d540-dde4-4e3e-a669-82f38273d488)
 
 ## GitHub Repository 
-* This repository contains the design files and documentation for the mobile app signup flow redesign. 
+* This repository contains the design files and documentation for the mobile app signup flow design. 
 
 ## Contributors 
 * Eswari 
