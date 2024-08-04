@@ -23,7 +23,7 @@
 * Ensured a secure signup flow with clear password requirements. 
 
 ## Figma Design File <br>
-![Screenshot 2024-08-03 190801](https://github.com/user-attachments/assets/34b4914b-5004-4dd3-b26a-4fd1995c40ff) 
+![Screenshot 2024-08-03 190801](https://github.com/user-attachments/assets/d369d540-dde4-4e3e-a669-82f38273d488)
 
 ## GitHub Repository 
 * This repository contains the design files and documentation for the mobile app signup flow redesign. 
